@@ -1,6 +1,6 @@
 # CodeNotes
 
-Python/Django Command Cheat Sheet
+### Python/Django Command Cheat Sheet
 
 `python manage.py migrate` - Run this on installation of Django ReST framework and any time after running `python manage.py makemigrations {projectName}`
 
