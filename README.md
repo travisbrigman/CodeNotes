@@ -9,3 +9,5 @@
 `python manage.py loaddata {fixtureName}` seeds your database with JSON files that are in fixtures directory
 
 `python manage.py runserver` - starts the Django app (server)
+
+`var jsonDate = (new Date()).toJSON();` - creates a date in ISO extended format (YYY-MM-DDT00:00)
