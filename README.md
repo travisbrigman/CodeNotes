@@ -10,4 +10,4 @@
 
 `python manage.py runserver` - starts the Django app (server)
 
-`var jsonDate = (new Date()).toJSON();` - creates a date in ISO extended format (YYY-MM-DDT00:00)
+`var jsonDate = (new Date()).toJSON();` - creates a date in ISO extended format (YYYY-MM-DDT00:00)
