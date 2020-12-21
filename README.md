@@ -11,3 +11,6 @@
 `python manage.py runserver` - starts the Django app (server)
 
 `var jsonDate = (new Date()).toJSON();` - creates a date in ISO extended format (YYYY-MM-DDT00:00)
+
+  the .map extracts the make property from items array. The filter returns only distinct make values
+  `const makeList = itemsCopy.map(item => item.make).filter((value, index, self) => self.indexOf(value) === index)`
